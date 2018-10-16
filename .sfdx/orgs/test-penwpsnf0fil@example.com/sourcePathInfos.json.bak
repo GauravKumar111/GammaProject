@@ -1,0 +1,347 @@
+[
+    [
+        "C:\\Users\\al2042\\GammaProject\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\GammaProject\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539681916808,
+            "changeTime": 1539681916808,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\GammaProject\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\GammaProject\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539681916808,
+            "changeTime": 1539681916808,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539682115454,
+            "changeTime": 1539682115454,
+            "contentHash": "29447785d6fffb1bcf789425fe3f0a54e897afdc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539681916808,
+            "changeTime": 1539681916808,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539682115444,
+            "changeTime": 1539682115444,
+            "contentHash": "b071af41fbaa3f8f6f9a75f48f768bb3b9474666",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\classes\\AccountProcessor.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\classes\\AccountProcessor.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 424,
+            "modifiedTime": 1539682115425,
+            "changeTime": 1539682115425,
+            "contentHash": "8090ef11bced7216ca802261ab5d7f87bc36cde3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\classes\\AccountProcessor.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\classes\\AccountProcessor.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1539682115422,
+            "changeTime": 1539682115422,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\classes\\AccountProcessorTest.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\classes\\AccountProcessorTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 727,
+            "modifiedTime": 1539682115444,
+            "changeTime": 1539682115444,
+            "contentHash": "74e36e12222d3c2b089b7232cd6056f074357ab9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\classes\\AccountProcessorTest.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\classes\\AccountProcessorTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1539682115442,
+            "changeTime": 1539682115442,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\layouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539682115448,
+            "changeTime": 1539682115448,
+            "contentHash": "e15ea744300e5f3377055aaf1ccbeb54606bbf43",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\layouts\\Expense__c-Expense Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\layouts\\Expense__c-Expense Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2493,
+            "modifiedTime": 1539682115448,
+            "changeTime": 1539682115448,
+            "contentHash": "4ac379efff8c184612fe004b1a1efec73abcf30a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539682115463,
+            "changeTime": 1539682115463,
+            "contentHash": "de5bdddc26e485c188609037715d5ada69d73c8a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539682115454,
+            "changeTime": 1539682115454,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539682115454,
+            "changeTime": 1539682115454,
+            "contentHash": "0124e328b479940f26a28cea3ad6d186946e546e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\objects\\Account\\fields\\Number_of_Contacts__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\objects\\Account\\fields\\Number_of_Contacts__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 416,
+            "modifiedTime": 1539682115454,
+            "changeTime": 1539682115454,
+            "contentHash": "5c8246ef94e6c903fbbc5c2dec6e5eb8c570e339",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\objects\\Expense__c",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\objects\\Expense__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539682115465,
+            "changeTime": 1539682115465,
+            "contentHash": "7e18244116415a1ea894bab3e1555215869b08f5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\objects\\Expense__c\\Expense__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\objects\\Expense__c\\Expense__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2109,
+            "modifiedTime": 1539682115465,
+            "changeTime": 1539682115465,
+            "contentHash": "e9bc2d68663079f5338f6feb34f2958b06d54a4e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\objects\\Expense__c\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\objects\\Expense__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539682115528,
+            "changeTime": 1539682115528,
+            "contentHash": "36e0f8ce8d3855ac18e6a491d7d01518f3bb1ae3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\objects\\Expense__c\\fields\\Amount__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\objects\\Expense__c\\fields\\Amount__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 386,
+            "modifiedTime": 1539682115466,
+            "changeTime": 1539682115466,
+            "contentHash": "472ae6f54d35237328ea05f13675341a86af5d7e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\objects\\Expense__c\\fields\\Client__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\objects\\Expense__c\\fields\\Client__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 357,
+            "modifiedTime": 1539682115467,
+            "changeTime": 1539682115467,
+            "contentHash": "0a4ca2be5487be4a173586522bf41d4f049c5ed5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\objects\\Expense__c\\fields\\Date__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\objects\\Expense__c\\fields\\Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 302,
+            "modifiedTime": 1539682115527,
+            "changeTime": 1539682115527,
+            "contentHash": "3aa2f8a93fac4dc61cd0c5780578ea9791519b1b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\objects\\Expense__c\\fields\\Reimbursed__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\GammaProject\\force-app\\main\\default\\objects\\Expense__c\\fields\\Reimbursed__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 326,
+            "modifiedTime": 1539682115529,
+            "changeTime": 1539682115529,
+            "contentHash": "9acbdb90d14377c84305cbc7f2dd0239dc76cd4d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\GammaProject",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\GammaProject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539681994892,
+            "changeTime": 1539681994892,
+            "contentHash": "92ca9faf268bdc3bc4fdfed474395961a41825c6",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
